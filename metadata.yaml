@@ -1,0 +1,34 @@
+_repo: The-Dead-Alive_7891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: The first idea of this little story was suggested to the author by a
+  printed account of a trial which actually took place, early in the present century,
+  in the United States... It may not be amiss to add, for the benefit of incredulous
+  readers, that all the ''improbable events'' in the story are matters of fact, taken
+  from the printed narrative. Anything which ''looks like truth'' is, in nine cases
+  out of ten, the invention of the author.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Attorney and client -- Fiction'
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Legal stories'
+- !lcsh 'Judicial error -- Fiction'
+- GITenberg
+title: The Dead Alive
+url: http://www.gutenberg.org/ebooks/7891
