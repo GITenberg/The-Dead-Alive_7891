@@ -1,5 +1,8 @@
 _repo: The-Dead-Alive_7891
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -15,6 +18,8 @@ description: The first idea of this little story was suggested to the author by 
   readers, that all the ''improbable events'' in the story are matters of fact, taken
   from the printed narrative. Anything which ''looks like truth'' is, in nine cases
   out of ten, the invention of the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7891#The-Dead-Alive
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
